@@ -1,0 +1,10 @@
+Hello
+GoodNight
+GoodMorinig
+おはよう
+こんにちは
+こんばんは
+おやすみ
+バイバイ
+じゃあね
+Hi
